@@ -1,0 +1,19 @@
+{
+  "name": "tiro.infra",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "directories": {
+    "doc": "doc",
+    "lib": "lib"
+  },
+  "description": "",
+  "devDependencies": {
+    "typescript": "^3.5.1",
+    "webpack": "^4.32.2"
+  }
+}
